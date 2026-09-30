@@ -1,1 +1,1 @@
-https://example.com/
+https://github.com/computerid-dev/webtoapk-template/
